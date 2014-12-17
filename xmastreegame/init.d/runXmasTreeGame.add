@@ -1,0 +1,2 @@
+sudo cp /home/pi/dev/xmastreegame/init.d/runXmasTreeGame /etc/init.d
+sudo update-rc.d runXmasTreeGame defaults
