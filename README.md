@@ -8,6 +8,7 @@ A game for the [Raspberry Pi GPIO Xmas Tree](http://www.pocketmoneytronics.co.uk
 ##Structure
 * treeexamples - example code from pocketmoneytronics to use the gpio xmas tree
 * xmastreegame - source code for the game
+  * init.d - scripts to run the game on startup
 
 ##Run
 
